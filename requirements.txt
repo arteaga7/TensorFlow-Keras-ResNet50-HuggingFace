@@ -1,6 +1,7 @@
 pandas
 tensorflow
 numpy
+scipy
 matplotlib
 ipykernel
 streamlit
