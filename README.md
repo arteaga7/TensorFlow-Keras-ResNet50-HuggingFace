@@ -1,2 +1,4 @@
-# TensorFlow-Keras-ResNet50-InceptionV3
-In this repository the classification of images are performed by using pretrained models such as ResNet50, InceptionV3.
+# TensorFlow-Keras-ResNet50-HuggingFace
+In this repository the classification of images are performed by using the pretrained model 'ResNet50'.
+
+The training process is divided into 3 parts: "iteration1.ipynb", "iteration2.ipynb" and "iteration3.ipynb".
